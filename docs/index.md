@@ -8,6 +8,7 @@ Comprobamos que nginx se ha instalado y que está funcionando correctamente:
 
 Crearemos la carpeta de nuestro sitio web o dominio:
 ![alt text](image-1.png)
+
 Clonamos el siguiente repositorio:
 ![alt text](image-2.png) 
 
