@@ -1,4 +1,3 @@
-# Welcome to MkDoc
 ## Instalación servidor web Nginx
 Para instalar el servidor nginx en Debian, primero actualizamos los repositorios y después instalamos el paquete correspondiente:
 
